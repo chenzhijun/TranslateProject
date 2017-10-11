@@ -1,7 +1,7 @@
 简介
 -------------------------------
 
-![test](http://chenzhijun.me/images/qiniu/md.gif)
+[test](http://chenzhijun.me/images/qiniu/md.gif)
 
 LCTT 是“Linux中国”（[https://linux.cn/](https://linux.cn/)）的翻译组，负责从国外优秀媒体翻译 Linux 相关的技术、资讯、杂文等内容。
 
